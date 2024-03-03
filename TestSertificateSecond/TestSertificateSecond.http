@@ -1,0 +1,6 @@
+@TestSertificateSecond_HostAddress = http://localhost:5210
+
+GET {{TestSertificateSecond_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
